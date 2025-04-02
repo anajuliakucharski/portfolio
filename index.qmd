@@ -1,7 +1,32 @@
 ---
-title: "Big Data Finance"
+title: "Portfólio de Ana Júlia"
+author: "Ana Júlia"
+date: today
+format: html
 ---
 
-This is a Quarto website.
+<div style="text-align: center;">
+  <img src="imagens/foto.jpeg" alt="Foto da ana" width="180" style="border-radius: 50%;">
+</div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# ✨ Oii, eu sou a Ana Júlia! ✨ 
+🎲 Sou estudante de Ciência de Dados para Negócios na FAE Centro Universitário.
+
+# Habilidades
+- *Banco de Dados:* PostgreSQL, MySQL , AWS Athena 
+- *DataViz:* Power BI, Tableau  
+
+## 💼 Experiências
+### 📊 Estagiário de Business Analytics | Junto Seguros | Ago 2024 - Presente  
+- Construção de dashboards em Tableau
+- Infraestrutura e gerenciamento de Dados
+
+### 🔎 PAIC - Projeto de Apoio a Iniciação Científica 
+- Participante bolsista do Projeto de Apoio á iniciação Científica , atuando no projeto "Percepção da Cultura Data Driven: Fenômenos Práticos no Mundo de Negócios em Saúde".
+📎 [Ler o artigo completo](https://sppaic.fae.edu/sppaic/article/view/335)
+
+
+## Contato 
+- **LinkedIn**: [linkedin.com/in/anakucharski](https://linkedin.com/in/anakucharski)
+- **GitHub**: [github.com/anajuliakucharski](https://github.com/anajuliakucharski)
