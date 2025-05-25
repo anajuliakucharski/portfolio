@@ -1,32 +1,76 @@
 ---
-title: "Portfólio de Ana Júlia"
-author: "Ana Júlia"
-date: today
-format: html
+title: "Ana Júlia Luciano Kucharski"
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    navbar: false
 ---
 
-<div style="text-align: center;">
-  <img src="imagens/foto.jpeg" alt="Foto da ana" width="180" style="border-radius: 50%;">
+<div class="header-container">
+  <img src="imagens\foto.jpeg" alt="Foto de Ana Julia" class="profile-pic">
+  <div>
+    👋 Oii, eu sou Ana Júlia Kucharski
+    Bem-vindo(a) ao meu portfólio! 
+    Aqui compartilho minha trajetória, projetos e aprendizados na área de dados e tecnologia.
+  </div>
 </div>
 
+---
 
-# ✨ Oii, eu sou a Ana Júlia! ✨ 
-🎲 Sou estudante de Ciência de Dados para Negócios na FAE Centro Universitário.
+## 🧠 Sobre Mim
 
-# Habilidades
-- *Banco de Dados:* PostgreSQL, MySQL , AWS Athena 
-- *DataViz:* Power BI, Tableau  
+- 🎓 Estudante de Ciência de Dados para Negócios na FAE Centro Universitário.
+- 💻 Apaixonada por dados, visualização e insights.
+- 🚀 Curiosa, criativa e sempre em busca de aprendizado.
 
-## 💼 Experiências
-### 📊 Estagiário de Business Analytics | Junto Seguros | Ago 2024 - Presente  
-- Construção de dashboards em Tableau
-- Infraestrutura e gerenciamento de Dados
+---
 
-### 🔎 PAIC - Projeto de Apoio a Iniciação Científica 
-- Participante bolsista do Projeto de Apoio á iniciação Científica , atuando no projeto "Percepção da Cultura Data Driven: Fenômenos Práticos no Mundo de Negócios em Saúde".
-📎 [Ler o artigo completo](https://sppaic.fae.edu/sppaic/article/view/335)
+## 🚀 Meus Projetos
 
+<div class="cards">
 
-## Contato 
-- **LinkedIn**: [linkedin.com/in/anakucharski](https://linkedin.com/in/anakucharski)
-- **GitHub**: [github.com/anajuliakucharski](https://github.com/anajuliakucharski)
+<div>
+  <img src="images/projeto1.png" alt="Big Data Finance Project" class="thumb">
+  <h3>📊 Análise de Dados em Python e R</h3>
+  <p>Análise de dados da bolsa de valores do universo de jogos digitais.</p>
+  <a href="https://github.com/anajuliakucharski/projeto-exemplo" target="_blank">🔗 Ver no GitHub</a>
+</div>
+
+<div>
+  <img src="imagens\Pareto.png" alt="Pareto - Visualização" class="thumb">
+  <h3>🌐 Pareto - Dashboard Interativo</h3>
+  <p>Dashboard do diagrama de Pareto e mapa de faturamento.</p>
+  <a href="https://github.com/anajuliakucharski/projeto-dashboard" target="_blank">🔗 Ver no GitHub</a>
+</div>
+
+</div>
+
+---
+
+## 🎓 Formação
+
+- **Ciência de Dados para Negócios — FAE Centro Universitário**
+- Bacharelado (2023-2026)
+  - Neste bacharelado, desenvolvo uma sólida base em análise de dados, modelagem estatística e visualização, com foco em transformar dados complexos em insights para decisões empresariais estratégicas. Aprofundo conhecimentos em Python e R, aplicando-os na resolução de desafios reais do mercado e na criação de soluções inovadoras.
+
+---
+
+## 🛠️ Skills
+
+- **Linguagens:** R, Python, SQL
+- **Ferramentas:** Git, Power BI, Excel, Quarto, Tableau
+- **Soft Skills:** Curiosidade, resolução de problemas, proatividade
+
+---
+
+## 📫 Contato
+
+- 📧 Email: [ana.kucharski@outlook.com](ana.kucharski@outlook.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anakucharski/)
+- 🟣 [GitHub](https://github.com/anajuliakucharski)
+
+---

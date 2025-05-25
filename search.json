@@ -1,23 +1,44 @@
 [
   {
-    "objectID": "index.html#experiências",
-    "href": "index.html#experiências",
-    "title": "Portfólio de Ana Júlia",
-    "section": "💼 Experiências",
-    "text": "💼 Experiências\n\n📊 Estagiário de Business Analytics | Junto Seguros | Ago 2024 - Presente\n\nConstrução de dashboards em Tableau\nInfraestrutura e gerenciamento de Dados\n\n\n\n🔎 PAIC - Projeto de Apoio a Iniciação Científica\n\nParticipante bolsista do Projeto de Apoio á iniciação Científica , atuando no projeto “Percepção da Cultura Data Driven: Fenômenos Práticos no Mundo de Negócios em Saúde”. 📎 Ler o artigo completo"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ana Júlia Luciano Kucharski",
+    "section": "",
+    "text": "👋 Oii, eu sou Ana Júlia Kucharski\nBem-vindo(a) ao meu portfólio! \nAqui compartilho minha trajetória, projetos e aprendizados na área de dados e tecnologia."
+  },
+  {
+    "objectID": "index.html#sobre-mim",
+    "href": "index.html#sobre-mim",
+    "title": "Ana Júlia Luciano Kucharski",
+    "section": "🧠 Sobre Mim",
+    "text": "🧠 Sobre Mim\n\n🎓 Estudante de Ciência de Dados para Negócios na FAE Centro Universitário.\n💻 Apaixonada por dados, visualização e insights.\n🚀 Curiosa, criativa e sempre em busca de aprendizado."
+  },
+  {
+    "objectID": "index.html#meus-projetos",
+    "href": "index.html#meus-projetos",
+    "title": "Ana Júlia Luciano Kucharski",
+    "section": "🚀 Meus Projetos",
+    "text": "🚀 Meus Projetos\n\n\n\n\n📊 Análise de Dados em Python e R\n\n\nAnálise de dados da bolsa de valores do universo de jogos digitais.\n\n🔗 Ver no GitHub\n\n\n\n\n🌐 Pareto - Dashboard Interativo\n\n\nDashboard do diagrama de Pareto e mapa de faturamento.\n\n🔗 Ver no GitHub"
+  },
+  {
+    "objectID": "index.html#formação",
+    "href": "index.html#formação",
+    "title": "Ana Júlia Luciano Kucharski",
+    "section": "🎓 Formação",
+    "text": "🎓 Formação\n\nCiência de Dados para Negócios — FAE Centro Universitário\nBacharelado (2023-2026)\n\nNeste bacharelado, desenvolvo uma sólida base em análise de dados, modelagem estatística e visualização, com foco em transformar dados complexos em insights para decisões empresariais estratégicas. Aprofundo conhecimentos em Python e R, aplicando-os na resolução de desafios reais do mercado e na criação de soluções inovadoras."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Ana Júlia Luciano Kucharski",
+    "section": "🛠️ Skills",
+    "text": "🛠️ Skills\n\nLinguagens: R, Python, SQL\nFerramentas: Git, Power BI, Excel, Quarto, Tableau\nSoft Skills: Curiosidade, resolução de problemas, proatividade"
   },
   {
     "objectID": "index.html#contato",
     "href": "index.html#contato",
-    "title": "Portfólio de Ana Júlia",
-    "section": "Contato",
-    "text": "Contato\n\nLinkedIn: linkedin.com/in/anakucharski\nGitHub: github.com/anajuliakucharski"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "title": "Ana Júlia Luciano Kucharski",
+    "section": "📫 Contato",
+    "text": "📫 Contato\n\n📧 Email: ana.kucharski@outlook.com\n💼 LinkedIn\n🟣 GitHub"
   }
 ]
