@@ -37,7 +37,7 @@ format:
 <div>
   <img src="imagens/Power apps.png" alt="Sistema de Inserção e Acompanhamento de Projetos" class="thumb">
   <h3>📱 Inserção e Acompanhamento de Projetos</h3>
-  <p>Aplicação no Power Apps integrada ao Power BI para padronizar a rotina de registro e monitorar o progresso dos projetos em tempo real.</p>
+  <p>Aplicação no Power Apps integrada ao Power BI para padronizar a rotina de registro e monitorar o progresso dos projetos em tempo real. Desenvolvido em power plataforms</p>
   <a href="https://github.com/anajuliakucharski/seu-repositorio-powerapps" target="_blank">🔗 Ver no GitHub</a>
 </div>
 
