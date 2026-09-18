@@ -11,11 +11,12 @@ format:
 ---
 
 <div class="header-container">
-  <img src="imagens\foto.jpeg" alt="Foto de Ana Julia" class="profile-pic">
+  <img src="imagens/foto.jpeg" alt="Foto de Ana Julia" class="profile-pic">
   <div>
-    👋 Oii, eu sou Ana Júlia Kucharski
-    Bem-vindo(a) ao meu portfólio! 
-    Aqui compartilho minha trajetória, projetos e aprendizados na área de dados e tecnologia.
+    <h2>Olá, sou a Ana Júlia Kucharski 👋</h2>
+    <p>
+      Estudante de Ciência de Dados para Negócios. Aqui apresento meus projetos práticos focados em análise de dados, criação de dashboards e automação de processos para apoio à tomada de decisão.
+    </p>
   </div>
 </div>
 
@@ -23,9 +24,9 @@ format:
 
 ## 🧠 Sobre Mim
 
-- 🎓 Estudante de Ciência de Dados para Negócios na FAE Centro Universitário.
-- 💻 Apaixonada por dados, visualização e insights.
-- 🚀 Curiosa, criativa e sempre em busca de aprendizado.
+- 🎓 Graduanda em Ciência de Dados para Negócios na FAE Centro Universitário.
+- 📊 Experiência prática na estruturação de bases, análise exploratória e visualização de dados com Python, R e Power BI.
+- 🛠️ Interesse voltado para a aplicação da ciência de dados na resolução de problemas operacionais e de gestão.
 
 ---
 
@@ -34,17 +35,24 @@ format:
 <div class="cards">
 
 <div>
-  <img src="images/projeto1.png" alt="Big Data Finance Project" class="thumb">
-  <h3>📊 Análise de Dados em Python e R</h3>
-  <p>Análise de dados da bolsa de valores do universo de jogos digitais.</p>
-  <a href="https://github.com/anajuliakucharski/projeto-exemplo" target="_blank">🔗 Ver no GitHub</a>
+  <img src="imagens/Power apps.png" alt="Sistema de Inserção e Acompanhamento de Projetos" class="thumb">
+  <h3>📱 Inserção e Acompanhamento de Projetos</h3>
+  <p>Aplicação no Power Apps integrada ao Power BI para padronizar a rotina de registro e monitorar o progresso dos projetos em tempo real.</p>
+  <a href="https://github.com/anajuliakucharski/seu-repositorio-powerapps" target="_blank">🔗 Ver no GitHub</a>
 </div>
 
 <div>
-  <img src="imagens\Pareto.png" alt="Pareto - Visualização" class="thumb">
-  <h3>🌐 Pareto - Dashboard Interativo</h3>
-  <p>Dashboard do diagrama de Pareto e mapa de faturamento.</p>
+  <img src="imagens/Pareto.png" alt="Pareto - Visualização" class="thumb">
+  <h3>🌐 Pareto & Faturamento — Dashboard Interativo</h3>
+  <p>Análise visual para identificação de gargalos operacionais via Diagrama de Pareto aliada ao mapeamento geográfico de faturamento.</p>
   <a href="https://github.com/anajuliakucharski/projeto-dashboard" target="_blank">🔗 Ver no GitHub</a>
+</div>
+
+<div>
+  <img src="images/projeto1.png" alt="Big Data Finance Project" class="thumb">
+  <h3>📊 Análise Financeira no Mercado de Games</h3>
+  <p>Estudo exploratório de dados da bolsa de valores focados em empresas do universo de jogos digitais utilizando Python e R.</p>
+  <a href="https://github.com/anajuliakucharski/projeto-exemplo" target="_blank">🔗 Ver no GitHub</a>
 </div>
 
 </div>
@@ -53,23 +61,22 @@ format:
 
 ## 🎓 Formação
 
-- **Ciência de Dados para Negócios — FAE Centro Universitário**
-- Bacharelado (2023-2026)
-  - Neste bacharelado, desenvolvo uma sólida base em análise de dados, modelagem estatística e visualização, com foco em transformar dados complexos em insights para decisões empresariais estratégicas. Aprofundo conhecimentos em Python e R, aplicando-os na resolução de desafios reais do mercado e na criação de soluções inovadoras.
-
+- **Bacharelado em Ciência de Dados para Negócios — FAE Centro Universitário** (2023–2026)
+  - Formação focada na união entre estatística, programação e contexto de negócios. Aplicação prática de Python, R e SQL na construção de pipelines de dados, modelagem preditiva e geração de métricas estratégicas.
+- **Bacharelado em Administração — FAE Centro Universitário** (2026-2027)
 ---
 
-## 🛠️ Skills
+## 🛠️ Habilidades Técnicas
 
-- **Linguagens:** R, Python, SQL
-- **Ferramentas:** Git, Power BI, Excel, Quarto, Tableau
-- **Soft Skills:** Curiosidade, resolução de problemas, proatividade
+- **Linguagens:** Python, R, SQL
+- **Visualização e Low-Code:** Power BI, Power Apps, Tableau, Quarto
+- **Outras Ferramentas:** Git, GitHub, Excel Avançado
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: [ana.kucharski@outlook.com](ana.kucharski@outlook.com)
+- 📧 Email: [ana.kucharski@outlook.com](mailto:ana.kucharski@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/anakucharski/)
 - 🟣 [GitHub](https://github.com/anajuliakucharski)
 
